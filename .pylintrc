@@ -1,0 +1,6 @@
+[MASTER]
+ignore=.git
+
+[MESSAGES CONTROL]
+disable=missing-function-docstring
+disable=too-many-nested-blocks
